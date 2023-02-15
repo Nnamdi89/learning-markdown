@@ -6,3 +6,6 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 Just using the above as placeholder code
 ```
+- [x] Add profile README.md
+- [x] Learn basic Github functionalities
+- [ ] Do Cloud Project Bootcamp assignments
